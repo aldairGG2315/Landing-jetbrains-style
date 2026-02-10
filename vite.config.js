@@ -7,3 +7,5 @@ export default defineConfig({
   base: '/Landing-jetbrains-style/',
 
 })
+
+//saludos
