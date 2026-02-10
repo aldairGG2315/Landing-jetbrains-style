@@ -4,7 +4,7 @@ import { Terminal, ShieldCheck, Zap, Code2 } from 'lucide-react';
 const caracteristicas = [
     {
         titulo: "Rendimiento Extremo",
-        desc: "Optimizado para hardware de alto nivel como tu serie RTX.",
+        desc: "Optimizado para hardware de alto nivel como NVIDIA RTX, AMD RADEON RX,INTEL ARC.",
         icon: <Zap className="w-6 h-6" />
     },
     {
